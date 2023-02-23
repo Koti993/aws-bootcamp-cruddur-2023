@@ -1,16 +1,15 @@
- Week 0 - AWS Pricing Basics, Free Tier and Security Activity
+ Week 0 - AWS Pricing Basics, Free Tier, Gitpod-Github setup and Security Activity
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 > Using billing preference and providing mail ID to get the billing alerts 
 > Used cloudwatch alarms to setup the billing alert
 > Created Budget for the AWS account
 > Activated Cost allocation tags named as Name, Env, Descripton, account
 > Understanding how cost explorer works as for generating reports 
-> Exploring AWS calculator
-> Enabled MFA for root account in AWS
-> Explored IAM ,CloudTrail and Organizations
+> Enabled MFA for root account and user account in AWS
+> Exploring IAM ,CloudTrail, Organizations services and Understading its use case 
+> Experimenting with CLI commands for Budget and SNS notification
+> Setting up workspace in gitpod and Validating the access to VS code
 > Created Lucid Chart for the Cloud Project App
-
-
 
 Refernce for lucid chart -> https://lucid.app/lucidchart/invitations/accept/inv_219bf4e2-59e3-4b7a-8b26-d173b8b3f367
 --------------------------------------------------------------------------------------------------------------
